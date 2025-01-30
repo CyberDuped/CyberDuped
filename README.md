@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ron! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab (Server Academy)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
