@@ -22,4 +22,15 @@ I love finding insights and creating visualizations to help drive decisions.
 ## 🚀 What’s Coming Soon
 - Interactive dashboards  
 - Exploratory data‑analysis projects  
-- End‑to‑end portfolio work  
+- End‑to‑end portfolio work
+
+---
+
+## 📌 2026 Learning Roadmap
+- Python fundamentals  
+- Data cleaning & wrangling  
+- Power BI dashboards  
+- Tableau storytelling  
+- SQL queries  
+- End‑to‑end portfolio project  
+ 
