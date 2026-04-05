@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" />
+  <img src="LinkedIn Banner.png" width="100%" />
 </p>
 
 ## Hey there! 👋 I'm Ron Duplessis!
