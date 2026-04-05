@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" />
+</p>
+
 ## Hey there! 👋 I'm Ron Duplessis!
 
 ### Aspiring Data Analyst  
