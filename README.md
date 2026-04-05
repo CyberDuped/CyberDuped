@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there! 👋 I'm Ron Duplessis!
 
-<!--
-**CyberDuped/CyberDuped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst  
+Turning data into decisions  
+**Python | Power BI | Tableau | SQL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+After years of disciplined service, I’ve transitioned into data analytics.  
+I love finding insights and creating visualizations to help drive decisions.
+
+---
+
+## 🔧 What I’m Working On
+- Learning Python for data wrangling  
+- Practicing Power BI dashboards  
+- Building foundational analytics projects  
+
+---
+
+## 🚀 What’s Coming Soon
+- Interactive dashboards  
+- Exploratory data‑analysis projects  
+- End‑to‑end portfolio work  
