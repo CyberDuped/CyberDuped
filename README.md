@@ -1,9 +1,7 @@
 <p align="center">
   <img src="LinkedIn Banner.png" width="100%" />
 </p>
-<h1 align="center">Ronald Duplessis Jr</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-<p align="center">Turning data into decisions</p>
 
 ---
 ### 🛠️ Tools & Technologies  
